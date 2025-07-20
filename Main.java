@@ -7,5 +7,7 @@ public class Main{
     System.out.println("Date: "+new Date());
     System.out.println("Initial Commit");
     System.out.println("Added one more file");
+    Student st = new Student();
+    st.sayHello();
   }
 }
